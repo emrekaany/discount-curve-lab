@@ -1,0 +1,8 @@
+[run]
+input_path = "../data/synthetic_market_data.csv"
+output_dir = "../artifacts"
+currencies = ["EUR", "GBP", "TRY", "USD"]
+horizon_days = 10950
+day_count = 365
+liquidity_starts_after_days = 90
+zero_rate_compounding = "continuous"

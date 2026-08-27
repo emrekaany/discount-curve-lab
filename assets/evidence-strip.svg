@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title desc">
+  <title id="title">Verified synthetic discount curve evidence</title>
+  <desc id="desc">The checked-in synthetic fixture has 64 observations, four fictional currencies, eight converged NSS fits, 43,800 daily zero-rate and discount-factor rows, maximum risk-free RMSE 2.713 basis points, maximum liquidity RMSE 0.434 basis points, 60 passing tests, and full branch coverage.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1018"/><stop offset="1" stop-color="#1f2937"/></linearGradient><style>.eyebrow{font:760 17px ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:2.5px}.num{font:800 44px ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}.label{font:620 20px ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}.mono{font:650 17px ui-monospace,SFMono-Regular,Menlo,monospace}</style></defs>
+  <rect width="1000" height="350" rx="30" fill="url(#bg)"/><text x="500" y="48" text-anchor="middle" class="eyebrow" fill="#fcd34d">CHECKED-IN SYNTHETIC FIXTURE · REPRODUCIBLE LOCALLY</text>
+  <g transform="translate(40 82)">
+    <g><rect width="214" height="142" rx="22" fill="#111827" stroke="#fbbf24" stroke-opacity=".28"/><text x="107" y="64" text-anchor="middle" class="num" fill="#fde68a">64</text><text x="107" y="100" text-anchor="middle" class="label" fill="#cbd5e1">observations</text></g>
+    <g transform="translate(232)"><rect width="214" height="142" rx="22" fill="#111827" stroke="#2dd4bf" stroke-opacity=".28"/><text x="107" y="64" text-anchor="middle" class="num" fill="#99f6e4">4</text><text x="107" y="100" text-anchor="middle" class="label" fill="#cbd5e1">currencies</text></g>
+    <g transform="translate(464)"><rect width="214" height="142" rx="22" fill="#111827" stroke="#60a5fa" stroke-opacity=".28"/><text x="107" y="64" text-anchor="middle" class="num" fill="#bfdbfe">8</text><text x="107" y="100" text-anchor="middle" class="label" fill="#cbd5e1">converged fits</text></g>
+    <g transform="translate(696)"><rect width="224" height="142" rx="22" fill="#111827" stroke="#c084fc" stroke-opacity=".28"/><text x="112" y="64" text-anchor="middle" class="num" fill="#e9d5ff">43,800</text><text x="112" y="100" text-anchor="middle" class="label" fill="#cbd5e1">daily curve rows</text></g>
+  </g>
+  <rect x="40" y="246" width="920" height="66" rx="20" fill="#0f172a" stroke="#94a3b8" stroke-opacity=".22"/>
+  <text x="500" y="274" text-anchor="middle" class="mono" fill="#e2e8f0">MAX FIXTURE RMSE · RISK-FREE 2.713 BPS · LIQUIDITY 0.434 BPS</text>
+  <text x="500" y="299" text-anchor="middle" class="mono" fill="#94a3b8">60 TESTS · 100% BRANCH COVERAGE · DRY-RUN WRITES NOTHING</text>
+</svg>
